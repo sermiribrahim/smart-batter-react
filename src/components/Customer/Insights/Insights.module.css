@@ -1,0 +1,14 @@
+.warranty {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* padding: 20px; */
+}
+
+.smallCard {
+  margin-bottom: 10px;
+}
+
+/* .mainDiv {
+  background-color: #fff;
+} */
